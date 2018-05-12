@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '6884'
     url: http://www.gutenberg.org/2009/agents/6884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16711#Life-and-Labors-of-Elder-John-Kline-the-Martyr-MissionaryCollated-from-his-Diary-by-Benjamin-_
 gutenberg_issued: '2005-09-17'
 gutenberg_type: Text
 identifiers:
